@@ -1,2 +1,2 @@
-# <img src="ico.png" width=45 height=45> JAVA-Projects
+# <img src="ico.png" width=56 height=56> JAVA-Projects
 JAVA studies
