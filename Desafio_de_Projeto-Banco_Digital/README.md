@@ -1,3 +1,3 @@
 ## Desafio de Projeto - Banco Digital em JAVA
 
-<img src="javaBank.png" width=400 height=400>
+<img src="javaBank.png" width=500 height=500>
